@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Metal Gear Solid 3: Snake Eater was released in 2004.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "category": "Entertainment: Books",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Shub-Niggurath is a creature that was created by \tJ. R. R. Tolkien in his novel: The Lord of The Rings.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "category": "Science: Mathematics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A slug's blood is green.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The movie : The Nightmare before Christmas: was all done with physical objects.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "id": 6,
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Greenland is almost as big as Africa.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The music video to The Buggle: Video Killed the Radio Star:  was the first music video to broadcast on MTV.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Gumbo is a stew that originated in Louisiana.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "category": "Entertainment: Comics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Pepe: meme originated from a comic drawn by Matt Furie called Boy's Club?",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The song: Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ],
+      "answer": "True"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Metal Gear Solid 3: Snake Eater was released in 2004.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Entertainment: Books",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Shub-Niggurath is a creature that was created by \tJ. R. R. Tolkien in his novel: The Lord of The Rings.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Science: Mathematics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A slug's blood is green.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The movie : The Nightmare before Christmas: was all done with physical objects.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Greenland is almost as big as Africa.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The music video to The Buggle: Video Killed the Radio Star:  was the first music video to broadcast on MTV.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Gumbo is a stew that originated in Louisiana.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Entertainment: Comics",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Pepe: meme originated from a comic drawn by Matt Furie called Boy's Club?",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The song: Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    }
+  ]
+}
